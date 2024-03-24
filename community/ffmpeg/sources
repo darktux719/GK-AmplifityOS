@@ -1,0 +1,7 @@
+https://ffmpeg.org/releases/ffmpeg-6.1.1.tar.xz
+
+#patches/ffmpeg-6.1.1-chromium_method-1.patch
+patches/ffmpeg-6.1.1-vulkan_fixes-1.patch
+
+#patches/add-av_stream_get_first_dts-for-chromium.patch
+#patches/fix-vulkan-headers.patch

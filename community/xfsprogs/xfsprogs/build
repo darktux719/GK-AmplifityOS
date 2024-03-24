@@ -1,0 +1,7 @@
+#!/bin/sh -e
+
+
+make DESDTDIR=$1 \
+     DEBUG=-DNDEBUG     \
+     INSTALL_USER=root  \
+     INSTALL_GROUP=root
